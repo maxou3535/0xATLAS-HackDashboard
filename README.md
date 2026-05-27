@@ -11,6 +11,12 @@
 
 ## 📸 Aperçu
 
+![0xATLAS HackDashboard preview](docs/preview.png)
+
+---
+
+## 📐 Layout ASCII
+
 ```
 ┌─────────────────────────────────────────────────────────┐
 │  ⚠ 0xATLAS   OFFENSIVE SECURITY TOOLKIT    ● SYS ONLINE │
