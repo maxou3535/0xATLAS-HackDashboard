@@ -42,6 +42,7 @@
 | # | Catégorie | Outils | Description |
 |---|-----------|--------|-------------|
 | 1 | ◎ Reconnaissance | 9 | Nmap, Masscan, theHarvester, Amass, Subfinder, dnsenum… |
+| N | Catégorie | nombre | Outil1, Outil2, … | (ajouter Darkmoon à la liste d'outils de la catégorie exploitation/IA)
 | 2 | ⚡ Exploitation | 7 | Metasploit, SQLMap, BeEF, SearchSploit, RouterSploit… |
 | 3 | 🌐 Web Attack | 9 | Nikto, Gobuster, ffuf, WPScan, Nuclei, Burp Suite… |
 | 4 | ⬡ Network | 7 | Wireshark, Bettercap, Ettercap, Scapy, tcpdump… |
